@@ -1,5 +1,5 @@
 {
-  "name": "Car_Dashboard",
+  "name": "Soft Stuff Assistant",
   "created": "2016-10-18T18:49:09.672Z",
   "intents": [
     {
@@ -400,19 +400,19 @@
       "description": null
     },
     {
-      "intent": "locate_amenity",
+      "intent": "locate_product",
       "created": "2016-10-18T18:49:09.672Z",
       "examples": [
         {
-          "text": "Amenities",
+          "text": "Product",
           "created": "2016-10-18T18:49:09.672Z"
         },
         {
-          "text": "Are there any around here",
+          "text": "I am looking for",
           "created": "2016-10-18T18:49:09.672Z"
         },
         {
-          "text": "can you find a good place to",
+          "text": "can you find",
           "created": "2016-10-18T18:49:09.672Z"
         },
         {
@@ -420,19 +420,19 @@
           "created": "2016-10-18T18:49:09.672Z"
         },
         {
-          "text": "can you find the nearest for me",
+          "text": "can you look for",
           "created": "2016-10-18T18:49:09.672Z"
         },
         {
-          "text": "can you locate a",
+          "text": "I need a",
           "created": "2016-10-18T18:49:09.672Z"
         },
         {
-          "text": "drive to the",
+          "text": "Show me all",
           "created": "2016-10-18T18:49:09.672Z"
         },
         {
-          "text": "find a",
+          "text": "Show me the",
           "created": "2016-10-18T18:49:09.672Z"
         },
         {
